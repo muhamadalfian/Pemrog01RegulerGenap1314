@@ -1,0 +1,11 @@
+//Belajar Git dengan melakukan push pada github
+//Menampilkan Biodata pribadi
+//Perintah yang ke dua
+
+Nama			: Muhammad Alfian Nur
+NIM				: 4512210008
+Alamat			: Depok
+Tempat lahir	: Bogor
+Hobby			: Bolla, Volly
+Email di github	: muhamadalfian
+Email connect	: rakskool31@gmail.com
